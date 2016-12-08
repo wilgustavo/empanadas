@@ -1,0 +1,24 @@
+{
+  "productos": [
+    {
+      "_id": "58496733ff8b18e6173f1137",
+      "nombre": "Jamón y queso",
+      "imagen": "http://lorempixel.com/400/400/food"
+    },
+    {
+      "_id": "584967b6ac486bf271556d14",
+      "nombre": "Ciruela y panceta",
+      "imagen": "http://lorempixel.com/400/400/food"
+    },
+    {
+      "_id": "584967d2d2b422a3454ae6d0",
+      "nombre": "Carne cortada a cuchillo",
+      "imagen": "http://lorempixel.com/400/400/food"
+    },
+    {
+      "nombre": "Ciboulette",
+      "imagen": "http://lorempixel.com/400/400/food",
+      "_id": "B1YvokP7l"
+    }
+  ]
+}
