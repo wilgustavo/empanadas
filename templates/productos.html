@@ -1,3 +1,5 @@
 <ul>
-  <li ng-repeat="item in vm.lista">{{item.nombre}}</li>
+  <li ng-repeat="item in vm.lista">
+    <a ui-sref="detalle({id: item._id})">{{item.nombre}}</a>
+  </li>
 </ul>
